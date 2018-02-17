@@ -1,4 +1,3 @@
-package com.hilmar;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -18,6 +17,8 @@ public class MobileMain {
         // Be sure not to expose the inner workings of the Arraylist to ContactList
         // e.g. no ints, no .get(i) etc
         // ContactList should do everything with Contact objects only.
+    //Hello test
+
 
     private static Scanner scanner = new Scanner(System.in);
     private static ContactList contactList = new ContactList();
